@@ -1,6 +1,6 @@
 #+title: My scripts repository
 #+author: RVSmooth
-
+* Moved to https://gitlab.com/dotsmooth/Scripts
 This is a WIP repository(altho all scripts are functional), for installation of my dotfiles, which soon will be public.
 
 
